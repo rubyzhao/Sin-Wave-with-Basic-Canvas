@@ -39,12 +39,14 @@ NAV_duration | NAV_connectEnd | NAV_responseEnd | NAV_domContentLoadedEventEnd |
 148.9 | 0.8 | 17.3 | 77.7 | 148.3 | 81.4 | 03-11-2019-03-36-10
 78.5 | 0.7 | 17.7 | 62.7 | 77.0 | 64.8 | 03-11-2019-03-36-22
 
-Tell us about your environment:
+The variance is even big. For example, NAV_domComplete=77, 1.92 times less than 148.3 at Loop=2000 is even lower than 167 in Loop=20. 
 
-[^1]: Live Server: v5.6.1
-Chrome: Version 78.0.3904.87 (Official Build) (64-bit)
-Windows: W10X64 1803
-Node.js version: v12.11.1
+**Tell us about your environment:**
+
+- [^1]: Live Server: v5.6.1
+- Chrome: Version 78.0.3904.87 (Official Build) (64-bit)
+- Windows: W10X64 1803
+- Node.js version: v12.11.1
 
 
 
