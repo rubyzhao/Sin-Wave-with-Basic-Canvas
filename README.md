@@ -1,4 +1,4 @@
-## Manually performace test results using performance.getEntries() from console of Chrome
+## Manually performace test results using performance.getEntries() from console of Chrome for Canvas_Sin.html
 This is further investigation for [Big different window.performance.timing results for repeat test on the same page](https://github.com/GoogleChrome/puppeteer/issues/5110)
 
 Last time, with the simplest server:
